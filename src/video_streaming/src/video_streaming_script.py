@@ -9,7 +9,7 @@ from cv_bridge import CvBridge, CvBridgeError
 
 start_time = time.time()
 
-target_width, target_height, target_fps = 800, 500, 30 #Width: 960, Height: 540
+target_width, target_height, target_fps = 600, 300, 30 #Width: 960, Height: 540
 new_target_height = target_height
 new_target_width = target_width
 new_target_fps = target_fps
@@ -62,7 +62,7 @@ def streamer():
             # Resize the image if necessary
             # if new_target_width != target_width or new_target_height != target_height:
             #     current_image = image_resize(current_image, width=new_target_width, height=new_target_height)
-            # current_image = image_resize(current_image, width=target_width, height=target_height)
+            current_image = image_resize(current_image, width=target_width, height=target_height),
 
             # Encode the image to JPEG
             _, buffer = cv2.imencode('.jpg', current_image)
