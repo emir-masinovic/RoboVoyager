@@ -29,7 +29,7 @@ constantly==15.1.0
 contourpy==1.1.1
 controller-manager==0.20.0
 controller-manager-msgs==0.20.0
-cryptography==2.8
+cryptography==42.0.4
 cupshelpers==1.0
 cv-bridge==1.16.2
 cycler==0.10.0
