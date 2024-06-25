@@ -77,7 +77,7 @@ graphsurgeon==0.4.6
 httplib2==0.14.0
 huggingface-hub==0.23.0
 hyperlink==19.0.0
-idna==2.10
+idna==3.7
 image-geometry==1.16.2
 importlib_metadata==7.1.0
 importlib_resources==6.4.0
