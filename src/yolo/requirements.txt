@@ -300,7 +300,7 @@ tqdm==4.66.4
 traceback2==1.4.0
 traitlets==5.14.3
 turtlebot3_teleop==1.2.5
-Twisted==18.9.0
+Twisted==23.10.0
 txaio==2.10.0
 typing_extensions==4.11.0
 tzdata==2024.1
