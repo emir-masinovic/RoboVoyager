@@ -322,5 +322,5 @@ wsaccel==0.6.2
 wstool==0.1.18
 xacro==1.14.18
 xkit==0.0.0
-zipp==3.18.1
+zipp==3.19.1
 zope.interface==4.7.1
