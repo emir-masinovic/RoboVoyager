@@ -1,6 +1,6 @@
 <div align="center">
-     <a href="https://duygusenaozturk.github.io/">
-        <img src="https://github.com/emir-masinovic/RoboVoyager/assets/80472569/0e554785-d310-44ef-bde4-ccb1882bd928" alt="#">
+     <a href="https://emir-masinovic.github.io/projects/robovoyager-website/">
+        <img src="https://github.com/emir-masinovic/RoboVoyager/assets/80472569/0e554785-d310-44ef-bde4-ccb1882bd928" alt="RoboVoyager Logo" width="320" height="200">
      </a>
      <br>
      <br>
