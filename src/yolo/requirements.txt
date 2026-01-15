@@ -17,7 +17,7 @@ catkin==0.8.10
 catkin-pkg==1.0.0
 catkin-pkg-modules==1.0.0
 cbor==1.0.0
-certifi==2023.7.22
+certifi==2024.7.4
 chardet==4.0.0
 charset-normalizer==3.3.2
 click==8.1.7
